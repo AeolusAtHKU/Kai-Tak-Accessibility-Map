@@ -1,4 +1,4 @@
-# Spatial Equity Analysis: MTR Accessibility in Kai Tak Development (KTD)
+# Mapping Spatial Equity in Transit-Oriented Development: A Case Study of Accessibility in the Kai Tak Development Area (KTD)
 
 ---
 
