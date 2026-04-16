@@ -1,9 +1,5 @@
 # Spatial Equity Analysis: MTR Accessibility in Kai Tak Development (KTD)
 
-![GitHub License](https://shields.io)
-![Python](https://shields.io)
-![Leaflet](https://shields.io)
-
 ---
 
 ## 📌 Research Overview
@@ -18,13 +14,7 @@ This project examines the **Spatial Equity** of transit-oriented development (TO
 ## 🗺️ Interactive Visualization
 The analysis is deployed as a web-based interactive map. You can explore the walk-time isochrones (5, 10, and 15-minute intervals) directly via the link below:
 
-👉 **[Launch Interactive Kai Tak Map](https://github.io)**
-
----
-
-## 🖼️ Map Preview
-![Kai Tak MTR Walking Accessibility](Map.jpg)
-*Figure 1: Walking isochrones from Kai Tak, Sung Wong Toi, and To Kwa Wan Stations.*
+👉 **[Launch Interactive Kai Tak Map](https://aeolusathku.github.io/Kai-Tak-Accessibility-Map/)**
 
 ---
 
